@@ -1,6 +1,10 @@
-[v0.0.5](https://github.com/littleflute/great-course6/edit/master/README.md)
+[v0.0.6](https://github.com/littleflute/great-course6/edit/master/README.md)
 
 [6537 After the New Testament.pdf](6537 After the New Testament.pdf)
+
+[dvd1](dvd1)
+
+[dvd2](dvd2)
 
 [dvd3](dvd3)
 
